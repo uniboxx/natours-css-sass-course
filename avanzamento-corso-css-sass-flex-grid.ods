@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:creation-date>2023-09-22T16:41:24.814006851</meta:creation-date><dc:date>2024-05-13T01:33:15.560722144</dc:date><meta:editing-duration>P93DT4H30M58S</meta:editing-duration><meta:editing-cycles>1052</meta:editing-cycles><meta:generator>LibreOffice/7.6.5.2$Linux_X86_64 LibreOffice_project/60$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="206" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">22634</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">30302</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="Foglio1">
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">4</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">1</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">1</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+       <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+       <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+       <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">Foglio1</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">891</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowFormulasMarks" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="FormulaBarHeight" config:type="short">1</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">it</config:config-item>
+     <config:config-item config:name="Country" config:type="string">IT</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+   <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Brother_DCP-1610W_series</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">9gH+/0Jyb3RoZXJfRENQLTE2MTBXX3NlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpCcm90aGVyX0RDUC0xNjEwV19zZXJpZXMAAAAWAAMAvwAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9QnJvdGhlcl9EQ1AtMTYxMFdfc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleHREYXRhClBhZ2VTaXplOkE0AAASAENPTVBBVF9EVVBMRVhfTU9ERRMARHVwbGV4TW9kZTo6VW5rbm93bgwAUFJJTlRFUl9OQU1FGABCcm90aGVyX0RDUC0xNjEwV19zZXJpZXMLAERSSVZFUl9OQU1FHQBDVVBTOkJyb3RoZXJfRENQLTE2MTBXX3Nlcmllcw==</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1000</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1000</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ShowFormulasMarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SyntaxStringRef" config:type="short">7</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-named config:name="ScriptConfiguration">
+    <config:config-item-map-entry config:name="Foglio1">
+     <config:config-item config:name="CodeName" config:type="string">Sheet1</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-named>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Droid Sans Devanagari" svg:font-family="&apos;Droid Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Source Han Sans CN" svg:font-family="&apos;Source Han Sans CN&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="1.25cm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="it" fo:country="IT" style:font-name-asian="Source Han Sans CN" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" style:writing-mode="page"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" loext:tab-stop-distance="0cm" style:writing-mode="page" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:language="it" fo:country="IT" style:letter-kerning="true" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-family-complex="&apos;Noto Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:style style:name="Default" style:family="graphic"/>
+  <style:style style:name="Note" style:family="graphic" style:parent-style-name="Default">
+   <style:graphic-properties draw:stroke="solid" draw:marker-start="Estremità_20_linea_20_1" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:fill="solid" draw:fill-color="#ffffc0" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:padding-top="0.1cm" fo:padding-bottom="0.1cm" fo:padding-left="0.1cm" fo:padding-right="0.1cm" draw:shadow="visible" draw:shadow-offset-x="0.1cm" draw:shadow-offset-y="0.1cm"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="10pt" style:font-name-asian="Source Han Sans CN" style:font-family-asian="&apos;Source Han Sans CN&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="10pt"/>
+  </style:style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N111P0" style:volatile="true">
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:number-style style:name="N111">
+   <style:text-properties fo:color="#ff0000"/>
+   <number:text>-</number:text>
+   <number:number number:decimal-places="0" number:min-decimal-places="0" number:min-integer-digits="1"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N111P0"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="24pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="24pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #808080"/>
+   <style:text-properties fo:color="#333333"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#808080" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Hyperlink" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#0000ee" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#0000ee"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc"/>
+   <style:text-properties fo:color="#006600"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc"/>
+   <style:text-properties fo:color="#996600"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc"/>
+   <style:text-properties fo:color="#cc0000"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:text-properties fo:color="#cc0000"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000"/>
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080"/>
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="sfondo_20_arancione" style:display-name="sfondo arancione" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#ff8000"/>
+  </style:style>
+  <draw:marker draw:name="Estremità_20_linea_20_1" draw:display-name="Estremità linea 1" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.921cm"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.531cm"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.688cm"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.731cm"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.94cm"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.233cm"/>
+  </style:style>
+  <style:style style:name="co7" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="5.59cm"/>
+  </style:style>
+  <style:style style:name="co8" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.785cm"/>
+  </style:style>
+  <style:style style:name="co9" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="2.131cm" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="0.612cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro3" style:family="table-row">
+   <style:table-row-properties style:row-height="1.157cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="0.695cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro5" style:family="table-row">
+   <style:table-row-properties style:row-height="0.452cm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <number:number-style style:name="N2">
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1"/>
+  </number:number-style>
+  <number:date-style style:name="N36" number:automatic-order="true">
+   <number:day number:style="long"/>
+   <number:text>/</number:text>
+   <number:month number:style="long"/>
+   <number:text>/</number:text>
+   <number:year number:style="long"/>
+  </number:date-style>
+  <number:text-style style:name="N100">
+   <number:text-content/>
+  </number:text-style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #00599d" fo:background-color="#00599d" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border-left="none" style:direction="ltr" fo:padding="0.035cm" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#ffffff" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="16pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce6" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce7" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
+   <style:table-cell-properties fo:background-color="#ffff00" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+   <style:table-cell-properties fo:background-color="#ffffff" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce10" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
+   <style:table-cell-properties fo:border-bottom="none" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #00599d" style:direction="ltr" fo:padding="0.035cm" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" fo:border-top="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce11" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #00599d" fo:background-color="#adc5e7" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="0.74pt solid #00599d" style:direction="ltr" fo:padding="0.035cm" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" fo:border-top="0.74pt solid #00599d" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="16pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce12" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:vertical-align="middle"/>
+  </style:style>
+  <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:background-color="#ffff00" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:background-color="#ffffff" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="0.74pt solid #000000" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #00599d" fo:background-color="#adc5e7" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="none" style:direction="ltr" fo:padding="0.035cm" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" fo:border-top="0.74pt solid #00599d" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="16pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce30" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:background-color="#ffffff" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:paragraph-properties fo:text-align="center" fo:margin-left="0cm"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce32" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="value-type" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce34" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:background-color="#ffffff" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="14pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="14pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce35" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="value-type" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="no-wrap" fo:border="none" style:direction="ltr" fo:padding="0.035cm" style:rotation-angle="0" style:rotation-align="none" style:vertical-align="middle"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="12pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-size-asian="12pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce36" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N0">
+   <style:table-cell-properties fo:border-bottom="0.74pt solid #00599d" fo:background-color="#adc5e7" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap" fo:border-left="none" style:direction="ltr" fo:padding="0.035cm" fo:border-right="none" style:rotation-angle="0" style:rotation-align="none" fo:border-top="0.74pt solid #00599d" style:vertical-align="middle"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-size="16pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.75cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.25cm"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.75cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.25cm"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.75cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-bottom="0.25cm" fo:border="1.5pt solid #000000" fo:padding="0.018cm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.75cm" fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.25cm" fo:border="1.5pt solid #000000" fo:padding="0.018cm" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:header-first style:display="false"/>
+   <style:footer>
+    <text:p>Pagina <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+   <style:footer-first style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2024-05-13">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="00:55:25.704172410">00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:header-first style:display="false"/>
+   <style:footer>
+    <text:p>Pagina <text:page-number>1</text:page-number><text:s/>/ <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+   <style:footer-first style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
+   <table:table table:name="Foglio1" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co4" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co5" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="ce12"/>
+    <table:table-column table:style-name="co9" table:number-columns-repeated="16376" table:default-cell-style-name="ce12"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>DATA</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Minuti fatti</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Lezioni fatte</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Minuti/Ore rimanenti</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Percorso</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Avanzamento</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+      <text:p>Avanzamento sezione</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" table:number-columns-repeated="16377"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce6"/>
+     <table:table-cell table:style-name="ce17" table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce17" office:value-type="float" office:value="1689" calcext:value-type="float">
+      <text:p>1689</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce17" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce26"/>
+     <table:table-cell table:style-name="ce32" table:number-columns-repeated="16375"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro3">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>MINUTI SALTATI</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce21" table:formula="of:=IF([.B3]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B3:.$B$3])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B3:.$B$3]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" table:formula="of:=[.E2]-[.B3]" office:value-type="float" office:value="1689" calcext:value-type="float">
+      <text:p>1689</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21" table:formula="of:=IF([.B3]&lt;&gt;&quot;&quot;;[.$E$2]-[.$B$3];&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce21"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-13" calcext:value-type="date">
+      <text:p>13/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=4+3" office:value-type="float" office:value="7" calcext:value-type="float">
+      <text:p>7</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" office:value-type="float" office:value="2" calcext:value-type="float">
+      <text:p>2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B4]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B4])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B4]))/60;1));&quot;&quot;)" office:value-type="string" office:string-value="1682/28" calcext:value-type="string">
+      <text:p>1682/28</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E3]=&quot;&quot; ;[.E3]=0);&quot;&quot;;IF([.E3]-60&gt;0;[.E3]-60;0))" office:value-type="float" office:value="1629" calcext:value-type="float">
+      <text:p>1629</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B4]&lt;&gt;&quot;&quot;;[.E4]-([.$E$3]-SUM([.$B$3:.$B4]));&quot;&quot;)" office:value-type="float" office:value="-53" calcext:value-type="float">
+      <text:p>-53</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
+      <text:p>FINE SEZ.01</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-13" calcext:value-type="date">
+      <text:p>13/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=1+6+24" office:value-type="float" office:value="31" calcext:value-type="float">
+      <text:p>31</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" office:value-type="float" office:value="5" calcext:value-type="float">
+      <text:p>5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B5]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B5])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B5]))/60;1));&quot;&quot;)" office:value-type="string" office:string-value="1651/27,5" calcext:value-type="string">
+      <text:p>1651/27,5</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" office:value-type="float" office:value="1629" calcext:value-type="float">
+      <text:p>1629</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B5]&lt;&gt;&quot;&quot;;[.E5]-([.$E$2]-SUM([.$B$3:.$B5]));&quot;&quot;)" office:value-type="float" office:value="-22" calcext:value-type="float">
+      <text:p>-22</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-14" calcext:value-type="date">
+      <text:p>14/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B6]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B6])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B6]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E5]=&quot;&quot; ;[.E5]=0);&quot;&quot;;IF([.E5]-60&gt;0;[.E5]-60;0))" office:value-type="float" office:value="1569" calcext:value-type="float">
+      <text:p>1569</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B6]&lt;&gt;&quot;&quot;;[.E6]-([.$E$2]-SUM([.$B$3:.$B6]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-15" calcext:value-type="date">
+      <text:p>15/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B7]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B7])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B7]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E6]=&quot;&quot; ;[.E6]=0);&quot;&quot;;IF([.E6]-60&gt;0;[.E6]-60;0))" office:value-type="float" office:value="1509" calcext:value-type="float">
+      <text:p>1509</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B7]&lt;&gt;&quot;&quot;;[.E7]-([.$E$2]-SUM([.$B$3:.$B7]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-16" calcext:value-type="date">
+      <text:p>16/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B8]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B8])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B8]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E7]=&quot;&quot; ;[.E7]=0);&quot;&quot;;IF([.E7]-60&gt;0;[.E7]-60;0))" office:value-type="float" office:value="1449" calcext:value-type="float">
+      <text:p>1449</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B8]&lt;&gt;&quot;&quot;;[.E8]-([.$E$2]-SUM([.$B$3:.$B8]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-17" calcext:value-type="date">
+      <text:p>17/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B9]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B9])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B9]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E8]=&quot;&quot; ;[.E8]=0);&quot;&quot;;IF([.E8]-60&gt;0;[.E8]-60;0))" office:value-type="float" office:value="1389" calcext:value-type="float">
+      <text:p>1389</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B9]&lt;&gt;&quot;&quot;;[.E9]-([.$E$2]-SUM([.$B$3:.$B9]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-18" calcext:value-type="date">
+      <text:p>18/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B10]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B10])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B10]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E9]=&quot;&quot; ;[.E9]=0);&quot;&quot;;IF([.E9]-60&gt;0;[.E9]-60;0))" office:value-type="float" office:value="1329" calcext:value-type="float">
+      <text:p>1329</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B10]&lt;&gt;&quot;&quot;;[.E10]-([.$E$2]-SUM([.$B$3:.$B10]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-19" calcext:value-type="date">
+      <text:p>19/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B11]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B11])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B11]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E10]=&quot;&quot; ;[.E10]=0);&quot;&quot;;IF([.E10]-60&gt;0;[.E10]-60;0))" office:value-type="float" office:value="1269" calcext:value-type="float">
+      <text:p>1269</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B11]&lt;&gt;&quot;&quot;;[.E11]-([.$E$2]-SUM([.$B$3:.$B11]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-20" calcext:value-type="date">
+      <text:p>20/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B12]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B12])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B12]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E11]=&quot;&quot; ;[.E11]=0);&quot;&quot;;IF([.E11]-60&gt;0;[.E11]-60;0))" office:value-type="float" office:value="1209" calcext:value-type="float">
+      <text:p>1209</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B12]&lt;&gt;&quot;&quot;;[.E12]-([.$E$2]-SUM([.$B$3:.$B12]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-21" calcext:value-type="date">
+      <text:p>21/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B13]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B13])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B13]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E12]=&quot;&quot; ;[.E12]=0);&quot;&quot;;IF([.E12]-60&gt;0;[.E12]-60;0))" office:value-type="float" office:value="1149" calcext:value-type="float">
+      <text:p>1149</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B13]&lt;&gt;&quot;&quot;;[.E13]-([.$E$2]-SUM([.$B$3:.$B13]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-22" calcext:value-type="date">
+      <text:p>22/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B14]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B14])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B14]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E13]=&quot;&quot; ;[.E13]=0);&quot;&quot;;IF([.E13]-60&gt;0;[.E13]-60;0))" office:value-type="float" office:value="1089" calcext:value-type="float">
+      <text:p>1089</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B14]&lt;&gt;&quot;&quot;;[.E14]-([.$E$2]-SUM([.$B$3:.$B14]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-23" calcext:value-type="date">
+      <text:p>23/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B15]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B15])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B15]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E14]=&quot;&quot; ;[.E14]=0);&quot;&quot;;IF([.E14]-60&gt;0;[.E14]-60;0))" office:value-type="float" office:value="1029" calcext:value-type="float">
+      <text:p>1029</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B15]&lt;&gt;&quot;&quot;;[.E15]-([.$E$2]-SUM([.$B$3:.$B15]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-24" calcext:value-type="date">
+      <text:p>24/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B16]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B16])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B16]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E15]=&quot;&quot; ;[.E15]=0);&quot;&quot;;IF([.E15]-60&gt;0;[.E15]-60;0))" office:value-type="float" office:value="969" calcext:value-type="float">
+      <text:p>969</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B16]&lt;&gt;&quot;&quot;;[.E16]-([.$E$2]-SUM([.$B$3:.$B16]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-25" calcext:value-type="date">
+      <text:p>25/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B17]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B17])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B17]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E16]=&quot;&quot; ;[.E16]=0);&quot;&quot;;IF([.E16]-60&gt;0;[.E16]-60;0))" office:value-type="float" office:value="909" calcext:value-type="float">
+      <text:p>909</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B17]&lt;&gt;&quot;&quot;;[.E17]-([.$E$2]-SUM([.$B$3:.$B17]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-26" calcext:value-type="date">
+      <text:p>26/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B18]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B18])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B18]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E17]=&quot;&quot; ;[.E17]=0);&quot;&quot;;IF([.E17]-60&gt;0;[.E17]-60;0))" office:value-type="float" office:value="849" calcext:value-type="float">
+      <text:p>849</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B18]&lt;&gt;&quot;&quot;;[.E18]-([.$E$2]-SUM([.$B$3:.$B18]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-27" calcext:value-type="date">
+      <text:p>27/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B19]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B19])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B19]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E18]=&quot;&quot; ;[.E18]=0);&quot;&quot;;IF([.E18]-60&gt;0;[.E18]-60;0))" office:value-type="float" office:value="789" calcext:value-type="float">
+      <text:p>789</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B19]&lt;&gt;&quot;&quot;;[.E19]-([.$E$2]-SUM([.$B$3:.$B19]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-28" calcext:value-type="date">
+      <text:p>28/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B20]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B20])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B20]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E19]=&quot;&quot; ;[.E19]=0);&quot;&quot;;IF([.E19]-60&gt;0;[.E19]-60;0))" office:value-type="float" office:value="729" calcext:value-type="float">
+      <text:p>729</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B20]&lt;&gt;&quot;&quot;;[.E20]-([.$E$2]-SUM([.$B$3:.$B20]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-29" calcext:value-type="date">
+      <text:p>29/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B21]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B21])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B21]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E20]=&quot;&quot; ;[.E20]=0);&quot;&quot;;IF([.E20]-60&gt;0;[.E20]-60;0))" office:value-type="float" office:value="669" calcext:value-type="float">
+      <text:p>669</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B21]&lt;&gt;&quot;&quot;;[.E21]-([.$E$2]-SUM([.$B$3:.$B21]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23"/>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-30" calcext:value-type="date">
+      <text:p>30/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B22]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B22])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B22]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E21]=&quot;&quot; ;[.E21]=0);&quot;&quot;;IF([.E21]-60&gt;0;[.E21]-60;0))" office:value-type="float" office:value="609" calcext:value-type="float">
+      <text:p>609</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B22]&lt;&gt;&quot;&quot;;[.E22]-([.$E$2]-SUM([.$B$3:.$B22]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B22]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B23]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-05-31" calcext:value-type="date">
+      <text:p>31/05/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B23]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B23])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B23]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E22]=&quot;&quot; ;[.E22]=0);&quot;&quot;;IF([.E22]-60&gt;0;[.E22]-60;0))" office:value-type="float" office:value="549" calcext:value-type="float">
+      <text:p>549</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B23]&lt;&gt;&quot;&quot;;[.E23]-([.$E$2]-SUM([.$B$3:.$B23]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B23]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B24]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-01" calcext:value-type="date">
+      <text:p>01/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B24]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B24])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B24]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E23]=&quot;&quot; ;[.E23]=0);&quot;&quot;;IF([.E23]-60&gt;0;[.E23]-60;0))" office:value-type="float" office:value="489" calcext:value-type="float">
+      <text:p>489</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B24]&lt;&gt;&quot;&quot;;[.E24]-([.$E$2]-SUM([.$B$3:.$B24]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B24]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B25]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-02" calcext:value-type="date">
+      <text:p>02/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B25]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B25])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B25]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E24]=&quot;&quot; ;[.E24]=0);&quot;&quot;;IF([.E24]-60&gt;0;[.E24]-60;0))" office:value-type="float" office:value="429" calcext:value-type="float">
+      <text:p>429</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B25]&lt;&gt;&quot;&quot;;[.E25]-([.$E$2]-SUM([.$B$3:.$B25]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B25]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B26]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-03" calcext:value-type="date">
+      <text:p>03/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B26]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B26])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B26]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E25]=&quot;&quot; ;[.E25]=0);&quot;&quot;;IF([.E25]-60&gt;0;[.E25]-60;0))" office:value-type="float" office:value="369" calcext:value-type="float">
+      <text:p>369</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B26]&lt;&gt;&quot;&quot;;[.E26]-([.$E$2]-SUM([.$B$3:.$B26]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B26]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B27]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-04" calcext:value-type="date">
+      <text:p>04/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B27]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B27])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B27]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E26]=&quot;&quot; ;[.E26]=0);&quot;&quot;;IF([.E26]-60&gt;0;[.E26]-60;0))" office:value-type="float" office:value="309" calcext:value-type="float">
+      <text:p>309</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B27]&lt;&gt;&quot;&quot;;[.E27]-([.$E$2]-SUM([.$B$3:.$B27]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B27]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B28]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-05" calcext:value-type="date">
+      <text:p>05/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B28]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B28])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B28]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E27]=&quot;&quot; ;[.E27]=0);&quot;&quot;;IF([.E27]-60&gt;0;[.E27]-60;0))" office:value-type="float" office:value="249" calcext:value-type="float">
+      <text:p>249</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B28]&lt;&gt;&quot;&quot;;[.E28]-([.$E$2]-SUM([.$B$3:.$B28]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B28]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B29]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-06" calcext:value-type="date">
+      <text:p>06/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B29]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B29])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B29]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E28]=&quot;&quot; ;[.E28]=0);&quot;&quot;;IF([.E28]-60&gt;0;[.E28]-60;0))" office:value-type="float" office:value="189" calcext:value-type="float">
+      <text:p>189</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B29]&lt;&gt;&quot;&quot;;[.E29]-([.$E$2]-SUM([.$B$3:.$B29]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B29]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B30]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-07" calcext:value-type="date">
+      <text:p>07/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B30]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B30])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B30]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E29]=&quot;&quot; ;[.E29]=0);&quot;&quot;;IF([.E29]-60&gt;0;[.E29]-60;0))" office:value-type="float" office:value="129" calcext:value-type="float">
+      <text:p>129</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B30]&lt;&gt;&quot;&quot;;[.E30]-([.$E$2]-SUM([.$B$3:.$B30]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B30]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B31]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-08" calcext:value-type="date">
+      <text:p>08/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B31]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B31])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B31]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E30]=&quot;&quot; ;[.E30]=0);&quot;&quot;;IF([.E30]-60&gt;0;[.E30]-60;0))" office:value-type="float" office:value="69" calcext:value-type="float">
+      <text:p>69</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B31]&lt;&gt;&quot;&quot;;[.E31]-([.$E$2]-SUM([.$B$3:.$B31]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B31]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B32]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-09" calcext:value-type="date">
+      <text:p>09/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B32]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B32])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B32]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E31]=&quot;&quot; ;[.E31]=0);&quot;&quot;;IF([.E31]-60&gt;0;[.E31]-60;0))" office:value-type="float" office:value="9" calcext:value-type="float">
+      <text:p>9</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B32]&lt;&gt;&quot;&quot;;[.E32]-([.$E$2]-SUM([.$B$3:.$B32]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B32]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B33]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-10" calcext:value-type="date">
+      <text:p>10/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B33]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B33])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B33]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E32]=&quot;&quot; ;[.E32]=0);&quot;&quot;;IF([.E32]-60&gt;0;[.E32]-60;0))" office:value-type="float" office:value="0" calcext:value-type="float">
+      <text:p>0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B33]&lt;&gt;&quot;&quot;;[.E33]-([.$E$2]-SUM([.$B$3:.$B33]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B33]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B34]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-11" calcext:value-type="date">
+      <text:p>11/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B34]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B34])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B34]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E33]=&quot;&quot; ;[.E33]=0);&quot;&quot;;IF([.E33]-60&gt;0;[.E33]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B34]&lt;&gt;&quot;&quot;;[.E34]-([.$E$2]-SUM([.$B$3:.$B34]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B34]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B35]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-12" calcext:value-type="date">
+      <text:p>12/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B35]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B35])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B35]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E34]=&quot;&quot; ;[.E34]=0);&quot;&quot;;IF([.E34]-60&gt;0;[.E34]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B35]&lt;&gt;&quot;&quot;;[.E35]-([.$E$2]-SUM([.$B$3:.$B35]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B35]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B36]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-13" calcext:value-type="date">
+      <text:p>13/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B36]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B36])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B36]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E35]=&quot;&quot; ;[.E35]=0);&quot;&quot;;IF([.E35]-60&gt;0;[.E35]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B36]&lt;&gt;&quot;&quot;;[.E36]-([.$E$2]-SUM([.$B$3:.$B36]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B36]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B37]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-14" calcext:value-type="date">
+      <text:p>14/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B37]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B37])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B37]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E36]=&quot;&quot; ;[.E36]=0);&quot;&quot;;IF([.E36]-60&gt;0;[.E36]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B37]&lt;&gt;&quot;&quot;;[.E37]-([.$E$2]-SUM([.$B$3:.$B37]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B37]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B38]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-15" calcext:value-type="date">
+      <text:p>15/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B38]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B38])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B38]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E37]=&quot;&quot; ;[.E37]=0);&quot;&quot;;IF([.E37]-60&gt;0;[.E37]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B38]&lt;&gt;&quot;&quot;;[.E38]-([.$E$2]-SUM([.$B$3:.$B38]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B38]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B39]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-16" calcext:value-type="date">
+      <text:p>16/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B39]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B39])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B39]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E38]=&quot;&quot; ;[.E38]=0);&quot;&quot;;IF([.E38]-60&gt;0;[.E38]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B39]&lt;&gt;&quot;&quot;;[.E39]-([.$E$2]-SUM([.$B$3:.$B39]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B39]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B40]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-17" calcext:value-type="date">
+      <text:p>17/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B40]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B40])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B40]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E39]=&quot;&quot; ;[.E39]=0);&quot;&quot;;IF([.E39]-60&gt;0;[.E39]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B40]&lt;&gt;&quot;&quot;;[.E40]-([.$E$2]-SUM([.$B$3:.$B40]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B40]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B41]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-18" calcext:value-type="date">
+      <text:p>18/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B41]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B41])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B41]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E40]=&quot;&quot; ;[.E40]=0);&quot;&quot;;IF([.E40]-60&gt;0;[.E40]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B41]&lt;&gt;&quot;&quot;;[.E41]-([.$E$2]-SUM([.$B$3:.$B41]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B41]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B42]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-19" calcext:value-type="date">
+      <text:p>19/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B42]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B42])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B42]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E41]=&quot;&quot; ;[.E41]=0);&quot;&quot;;IF([.E41]-60&gt;0;[.E41]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B42]&lt;&gt;&quot;&quot;;[.E42]-([.$E$2]-SUM([.$B$3:.$B42]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B42]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B43]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-20" calcext:value-type="date">
+      <text:p>20/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B43]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B43])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B43]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E42]=&quot;&quot; ;[.E42]=0);&quot;&quot;;IF([.E42]-60&gt;0;[.E42]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B43]&lt;&gt;&quot;&quot;;[.E43]-([.$E$2]-SUM([.$B$3:.$B43]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B43]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B44]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce9" office:value-type="date" office:date-value="2024-06-21" calcext:value-type="date">
+      <text:p>21/06/2024</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B44]&lt;&gt;&quot;&quot;;([.$E$2]-SUM([.$B$3:.$B44])) &amp; &quot;/&quot; &amp; (ROUND(([.$E$2]-SUM([.$B$3:.$B44]))/60;1));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF(OR([.E43]=&quot;&quot; ;[.E43]=0);&quot;&quot;;IF([.E43]-60&gt;0;[.E43]-60;0))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B44]&lt;&gt;&quot;&quot;;[.E44]-([.$E$2]-SUM([.$B$3:.$B44]));&quot;&quot;)">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce23" table:formula="of:=IF([.B44]=&quot;&quot;;&quot;&quot;;ROUND((368-SUM([.B$13:.$B45]))/60;1))">
+      <text:p/>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce30"/>
+     <table:table-cell table:style-name="ce34" table:number-columns-repeated="16375"/>
+     <table:table-cell table:style-name="Default"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce10"/>
+     <table:table-cell table:style-name="ce26" table:number-columns-repeated="5"/>
+     <table:table-cell table:style-name="ce29" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce35" table:number-columns-repeated="16375"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro4">
+     <table:table-cell table:style-name="ce11" office:value-type="string" calcext:value-type="string">
+      <text:p>TOTALE</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" table:formula="of:=SUM([.B3:.B44])" office:value-type="float" office:value="38" calcext:value-type="float">
+      <text:p>38</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce27" table:number-columns-repeated="6"/>
+     <table:table-cell table:style-name="ce36" table:number-columns-repeated="16375"/>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2" table:number-rows-repeated="3">
+     <table:table-cell table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce28"/>
+     <table:table-cell table:number-columns-repeated="16379"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5" table:number-rows-repeated="1048526">
+     <table:table-cell table:number-columns-repeated="16384"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro5">
+     <table:table-cell table:number-columns-repeated="16384"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
