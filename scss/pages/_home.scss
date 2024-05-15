@@ -32,9 +32,8 @@
   background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark);
 
   .book {
-    background:
-      linear-gradient(105deg, rgba($color-white, 0.9) 50%, transparent 50%),
-      url("/img/nat-10.jpg") center/cover;
+    background: linear-gradient(105deg, rgba($color-white, 0.9) 50%, transparent 50%), url("/img/nat-10.jpg");
+    background-size: cover;
     border-radius: $default-radius;
     @include boxShadow($color-black, 0.2);
 
