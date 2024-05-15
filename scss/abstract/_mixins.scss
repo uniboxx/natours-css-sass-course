@@ -25,9 +25,9 @@
   transform: translate(-50%, -50%);
 }
 
-@mixin boxShadow($color, $opacity: 0.15) {
+@mixin boxShadow($color: $color-black, $opacity: 0.15) {
   box-shadow: 0 1.5rem 4rem rgba($color, $opacity);
 }
-@mixin boxShadowSmall($color, $opacity: 0.15) {
+@mixin boxShadowSmall($color: $color-black, $opacity: 0.4) {
   box-shadow: 0 1rem 2rem rgba($color, $opacity);
 }

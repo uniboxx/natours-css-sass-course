@@ -16,7 +16,7 @@
     backface-visibility: hidden;
     border-radius: $default-radius;
     overflow: hidden; //^ perche l'immagine copre i bordi e non fa vedere il radius
-    @include boxShadow($color-black);
+    @include boxShadow;
 
     &--front {
       background-color: $color-white;
