@@ -6,7 +6,7 @@
 
 .section-features {
   padding: 20rem 0;
-  @include sectionBg('nat-4', center);
+  @include sectionBg("nat-4", center);
 
   transform: skewY(-$skewY-deg);
   margin-top: -12rem;
@@ -25,4 +25,24 @@
 .section-stories {
   padding: 15rem 0;
   position: relative;
+}
+
+.section-book {
+  padding: 15rem 0;
+  background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark);
+
+  .book {
+    background:
+      linear-gradient(105deg, rgba($color-white, 0.9) 50%, transparent 50%),
+      url("/img/nat-10.jpg") center/cover;
+    border-radius: $default-radius;
+    @include boxShadow($color-black, 0.2);
+
+    height: 50rem;
+
+    &__form {
+      width: 50%;
+      padding: 6rem;
+    }
+  }
 }

@@ -15,9 +15,6 @@ $color-black: #000;
 $color-grey-light-1: #f7f7f7;
 $color-grey-light-2: #eee;
 
-//^ SHADOW
-$shadow-default: 0 1.5rem 4rem rgba($color-black, 0.15);
-
 //^ FONT
 $default-font-size: 1.6rem;
 
@@ -28,3 +25,6 @@ $gutter-horizontal: 6rem;
 
 //^ SECTION
 $skewY-deg: 7deg;
+
+//^ BORDERS
+$default-radius: 3px;

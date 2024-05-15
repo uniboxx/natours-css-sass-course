@@ -1,18 +1,15 @@
 @mixin clearfix {
   &::after {
-    content: '';
+    content: "";
     display: table;
     clear: both;
   }
 }
 
-@mixin sectionBg($image, $position: '') {
-  background: linear-gradient(
-      to right bottom,
-      rgba($color-primary-light, 0.8),
-      rgba($color-primary-dark, 0.8)
-    ),
-    url('../img/' + $image + '.jpg') $position / cover;
+@mixin sectionBg($image, $position: "") {
+  background:
+    linear-gradient(to right bottom, rgba($color-primary-light, 0.8), rgba($color-primary-dark, 0.8)),
+    url("../img/" + $image + ".jpg") $position / cover;
 }
 
 @mixin textGradient {
@@ -26,4 +23,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+@mixin boxShadow($color, $opacity: 0.15) {
+  box-shadow: 0 1.5rem 4rem rgba($color, $opacity);
 }
