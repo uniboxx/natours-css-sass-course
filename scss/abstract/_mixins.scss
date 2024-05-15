@@ -28,3 +28,6 @@
 @mixin boxShadow($color, $opacity: 0.15) {
   box-shadow: 0 1.5rem 4rem rgba($color, $opacity);
 }
+@mixin boxShadowSmall($color, $opacity: 0.15) {
+  box-shadow: 0 1rem 2rem rgba($color, $opacity);
+}
