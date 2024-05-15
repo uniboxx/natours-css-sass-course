@@ -156,7 +156,7 @@
 
   &__cta {
     position: absolute;
-    @include centerElement;
+    @include centerAbs;
     width: 90%;
     text-align: center;
   }
