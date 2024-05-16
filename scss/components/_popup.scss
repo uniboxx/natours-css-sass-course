@@ -1,0 +1,83 @@
+.popup {
+  position: fixed;
+  height: 100svh;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: rgba($color-black, 0.9);
+  z-index: 150;
+  opacity: 0; //^ è possibile ancora interagire con l'elemento ma si può animare
+  visibility: hidden; //^ non è possibile interagire con l'elemento ma non si può animare
+  transition: all 0.3s;
+
+  &:target {
+    opacity: 1;
+    visibility: visible;
+  }
+  &:target &__content {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+
+  &__close {
+    &:link,
+    &:visited {
+      text-decoration: none;
+      font-size: 3rem;
+      position: absolute;
+      line-height: 1;
+      top: 2.5rem;
+      right: 2.5rem;
+      color: $color-grey-dark;
+      display: inline-block; //? non penso che serva
+      transition: all 0.2s;
+    }
+
+    &:hover {
+      color: $color-primary;
+    }
+  }
+
+  &__content {
+    width: 75%;
+    background: $color-white;
+    @include boxShadow;
+    @include centerAbs;
+    border-radius: 3px;
+    overflow: hidden;
+    display: table;
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.2);
+    transition: all 0.5s 0.1s;
+  }
+
+  &__left {
+    width: 33.33333%;
+    display: table-cell;
+  }
+
+  &__right {
+    width: 66.66667%;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 3rem 5rem;
+  }
+
+  &__img {
+    display: block;
+    width: 100%;
+  }
+
+  &__text {
+    font-size: 1.4rem;
+    margin-bottom: 4rem;
+
+    //? potrebbero servire i vendor prefix.
+    column-count: 2;
+    column-gap: 4rem;
+    column-rule: 1px solid $color-grey-light-2;
+
+    //? per usare al meglio questa proprietà occorre definire la lingua nel tag html. potrebbero servire i vendor prefix.
+    hyphens: auto;
+  }
+}
