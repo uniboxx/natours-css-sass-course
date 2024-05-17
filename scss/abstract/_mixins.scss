@@ -42,7 +42,7 @@
 
 //? per capire
 @mixin respond-phone {
-  @media (max-width: 600px) {
+  @media only screen and (max-width: 600px) {
     @content;
   }
 }
