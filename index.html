@@ -59,9 +59,15 @@
         </div>
         <div class="col-1-of-2">
           <div class="composition">
-            <img src="img/nat-1-large.jpg" alt="Photo 1" class="composition__photo composition__photo--p1" />
+
+            <!-- RESOLUTION SWITCHING -->
+            <img class="composition__photo composition__photo--p1" src="img/nat-1-large.jpg" alt="Photo 1" srcset="img/nat-1.jpg 300w, img/nat-1-large.jpg 1000w" sizes="(max-width: 900px) 20vw, (max-width: 600px) 30vw, 300px">
+            <img class="composition__photo composition__photo--p2" src="img/nat-2-large.jpg" alt="Photo 2" srcset="img/nat-2.jpg 300w, img/nat-2-large.jpg 1000w" sizes="(max-width: 900px) 20vw, (max-width: 600px) 30vw, 300px">
+            <img class="composition__photo composition__photo--p3" src="img/nat-3-large.jpg" alt="Photo 3" srcset="img/nat-3.jpg 300w, img/nat-3-large.jpg 1000w" sizes="(max-width: 900px) 20vw, (max-width: 600px) 30vw, 300px">
+
+            <!-- <img class="composition__photo composition__photo--p1" src="img/nat-1-large.jpg" alt="Photo 1" />
             <img src="img/nat-2-large.jpg" alt="Photo 2" class="composition__photo composition__photo--p2" />
-            <img src="img/nat-3-large.jpg" alt="Photo3" class="composition__photo composition__photo--p3" />
+            <img src="img/nat-3-large.jpg" alt="Photo3" class="composition__photo composition__photo--p3" /> -->
           </div>
         </div>
       </div>
@@ -214,7 +220,7 @@
       <div class="row">
         <div class="story">
           <figure class="story__shape">
-            <img class="story__img" src="img/nat-8.jpg" alt="Person on a tour" />
+            <img class="story__img" src="img/nat-8.jpg" alt="Person on a tour" srcset="img/nat-8-1x.jpg 1x, img/nat-8-2x.jpg 2x" />
             <figcaption class="story__caption">Mary Smith</figcaption>
           </figure>
           <div class="story__text">
@@ -226,7 +232,7 @@
       <div class="row">
         <div class="story">
           <figure class="story__shape">
-            <img class="story__img" src="img/nat-9.jpg" alt="Person on a tour" />
+            <img class="story__img" src="img/nat-9.jpg" alt="Person on a tour" srcset="img/nat-9-1x.jpg 1x, img/nat-9-2x.jpg 2x" />
             <figcaption class="story__caption">Jack Wilson</figcaption>
           </figure>
           <div class="story__text">
@@ -281,7 +287,16 @@
 
   <footer class="footer">
     <div class="footer__logo-box">
-      <img class="footer__logo" src="img/logo-green-2x.png" alt="Full logo" />
+
+      <!-- ART DIRECTOR  and DENSITY SWITCHING  src is for browser that don't support srcset   -->
+      <picture class="footer__logo">
+        <source srcset="img/logo-green-small-1x.png 1x, img/logo-green-small-2x.png 2x" media="(max-width: 37.5em)">
+        <img class="footer__logo" src="img/logo-green-2x.png 2x" srcset="img/logo-green-1x.png 1x, img/logo-green-2x.png 2x" alt="Full logo" />
+      </picture>
+
+      <!-- DENSITY SWITCHING src is for browser that don't support srcset -->
+      <!-- <img class="footer__logo" src="img/logo-green-2x.png 2x" srcset="img/logo-green-1x.png 1x, img/logo-green-2x.png 2x" alt="Full logo" /> -->
+
     </div>
     <div class="row">
       <div class="col-1-of-2">
@@ -305,8 +320,10 @@
     <div class="popup__content">
 
       <div class="popup__left">
-        <img class="popup__img" src="img/nat-8.jpg" alt="Tour photo" />
-        <img class="popup__img" src="img/nat-9.jpg" alt="Tour photo" />
+
+        <img class="popup__img" src="img/nat-8.jpg" alt="Tour photo" srcset="img/nat-8-1x.jpg 1x, img/nat-8-2x.jpg 2x">
+        <img class="popup__img" src="img/nat-9.jpg" alt="Tour photo" srcset="img/nat-9-1x.jpg 1x, img/nat-9-2x.jpg 2x" />
+
       </div>
 
       <div class="popup__right">
