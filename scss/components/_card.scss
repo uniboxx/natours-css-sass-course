@@ -13,7 +13,6 @@
     width: 100%;
     top: 0;
     left: 0;
-    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     border-radius: $default-radius;
     overflow: hidden; //^ perche l'immagine copre i bordi e non fa vedere il radius
@@ -100,7 +99,6 @@
 
   &__heading-span {
     padding: 1rem 1.5rem;
-    -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
 
     &--1 {

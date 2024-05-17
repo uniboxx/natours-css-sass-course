@@ -2,7 +2,6 @@
   height: 100svh;
   @include sectionBg("hero-small", top); //^ if one value the second is automatically center
   position: relative;
-  -webkit-clip-path: polygon(0 0, 100% 0, 100% 75svh, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 75svh, 0 100%);
 
   //^ high resolution but screen bigger than phone every resolution and bigger than big desktop
@@ -11,7 +10,6 @@
   }
 
   @include respond(phone) {
-    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85svh, 0 100%);
     clip-path: polygon(0 0, 100% 0, 100% 85svh, 0 100%);
   }
 

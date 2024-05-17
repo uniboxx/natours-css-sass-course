@@ -13,7 +13,6 @@ body {
   text-transform: uppercase;
 
   //^ prevent the little step to top in animation
-  -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   margin-bottom: 6rem;
 
