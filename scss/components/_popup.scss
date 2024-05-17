@@ -31,6 +31,16 @@
       color: $color-grey-dark;
       display: inline-block; //? non penso che serva
       transition: all 0.2s;
+
+      @include respond(tab-port) {
+        top: 1.5rem;
+        right: 1.5rem;
+      }
+
+      @include respond(phone) {
+        top: 2.5rem;
+        right: 2.5rem;
+      }
     }
 
     &:hover {
@@ -45,27 +55,53 @@
     @include centerAbs;
     border-radius: 3px;
     overflow: hidden;
-    display: table;
+    display: flex;
+    align-items: center;
     opacity: 0;
     transform: translate(-50%, -50%) scale(0.2);
     transition: all 0.5s 0.1s;
+
+    @include respond(tab-land) {
+      flex-direction: column;
+    }
+
+    @include respond(phone) {
+      width: 100%;
+    }
   }
 
   &__left {
-    width: 33.33333%;
-    display: table-cell;
+    flex: 1;
+
+    @include respond(tab-land) {
+      flex: 0;
+      display: flex;
+      justify-content: center;
+      gap: 4rem;
+      margin-top: 1rem;
+    }
   }
 
   &__right {
-    width: 66.66667%;
-    display: table-cell;
-    vertical-align: middle;
+    flex: 2;
     padding: 3rem 5rem;
+
+    @include respond(tab-land) {
+      flex: 0;
+      padding: 2rem 5rem;
+    }
   }
 
   &__img {
     display: block;
     width: 100%;
+
+    @include respond(tab-land) {
+      width: 40%;
+    }
+    @include respond(phone) {
+      display: none;
+    }
   }
 
   &__text {
@@ -79,5 +115,12 @@
 
     //? per usare al meglio questa proprietà occorre definire la lingua nel tag html. potrebbero servire i vendor prefix.
     hyphens: auto;
+
+    @include respond(tab-land) {
+      margin-bottom: 2rem;
+    }
+    @include respond(phone) {
+      column-count: 1;
+    }
   }
 }

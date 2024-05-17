@@ -1,11 +1,14 @@
 .header {
   height: 100svh;
-  @include sectionBg(
-    'hero',
-    top
-  ); //^ if one value the second is automatically center
+  @include sectionBg("hero", top); //^ if one value the second is automatically center
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 75svh, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 75svh, 0 100%);
   position: relative;
+
+  @include respond(phone) {
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 85svh, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 85svh, 0 100%);
+  }
 
   &__logo-box {
     position: absolute;
