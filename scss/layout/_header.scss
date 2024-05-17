@@ -1,9 +1,14 @@
 .header {
   height: 100svh;
-  @include sectionBg("hero", top); //^ if one value the second is automatically center
+  @include sectionBg("hero-small", top); //^ if one value the second is automatically center
+  position: relative;
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 75svh, 0 100%);
   clip-path: polygon(0 0, 100% 0, 100% 75svh, 0 100%);
-  position: relative;
+
+  //^ high resolution but screen bigger than phone every resolution and bigger than big desktop
+  @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 112.5em) {
+    @include sectionBg("hero", top);
+  }
 
   @include respond(phone) {
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 85svh, 0 100%);

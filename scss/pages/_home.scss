@@ -10,7 +10,7 @@
 
 .section-features {
   padding: 20rem 0;
-  @include sectionBg("nat-4", center);
+  @include sectionBg("nat-4-small", center);
 
   transform: skewY(-$skewY-deg);
   margin-top: -12rem;
@@ -21,6 +21,11 @@
 
   @include respond(tab-port) {
     padding: 10rem 0;
+  }
+
+  //^ high resolution but screen bigger than phone every resolution and bigger than big desktop
+  @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 112.5em) {
+    @include sectionBg("nat-4", top);
   }
 }
 
@@ -54,7 +59,7 @@
   .book {
     background:
       linear-gradient(105deg, rgba($color-white, 0.9) 50%, transparent 50%),
-      url("/img/nat-10.jpg") top/cover;
+      url("/img/nat-10-small.jpg") top/cover;
     background-repeat: no-repeat;
     border-radius: $default-radius;
     @include boxShadow($color-black, 0.2);
@@ -68,6 +73,12 @@
     @include respond(tab-port) {
       background:
         linear-gradient(90deg, rgba($color-white, 0.9) 0%, rgba($color-white, 0.9) 100%),
+        url("/img/nat-10.jpg") top/cover;
+    }
+
+    @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 112.5em) {
+      background:
+        linear-gradient(105deg, rgba($color-white, 0.9) 50%, transparent 50%),
         url("/img/nat-10.jpg") top/cover;
     }
 

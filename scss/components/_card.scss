@@ -13,6 +13,7 @@
     width: 100%;
     top: 0;
     left: 0;
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     border-radius: $default-radius;
     overflow: hidden; //^ perche l'immagine copre i bordi e non fa vedere il radius
@@ -55,17 +56,33 @@
 
     &--1 {
       background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark),
-        url("/img/nat-5.jpg");
+        url("/img/nat-5-small.jpg");
+
+      //^ high resolution but screen bigger than phone every resolution and bigger than big desktop
+      @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 112.5em) {
+        background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark),
+          url("/img/nat-5.jpg");
+      }
     }
 
     &--2 {
       background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark),
-        url("/img/nat-6.jpg");
+        url("/img/nat-6-small.jpg");
+
+      @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 112.5em) {
+        background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark),
+          url("/img/nat-6.jpg");
+      }
     }
 
     &--3 {
       background-image: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark),
-        url("/img/nat-7.jpg");
+        url("/img/nat-7-small.jpg");
+
+      @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 112.5em) {
+        background-image: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark),
+          url("/img/nat-7.jpg");
+      }
     }
   }
 
